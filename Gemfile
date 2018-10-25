@@ -5,3 +5,6 @@ gem "sinatra-activerecord"
 gem "sqlite3"
 gem "pry"
 gem "require_all"
+gem "io-console"
+gem "colorize"
+gem 'tty-prompt'
